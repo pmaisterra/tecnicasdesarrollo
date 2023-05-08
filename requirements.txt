@@ -1,6 +1,6 @@
 opencv-contrib-python-headless
 matplotlib==3.4.2
-streamlit==0.92.1
+streamlit==1.12.1
 numpy==1.19.5
 keras==2.4.3
 tensorflow==2.5.0
