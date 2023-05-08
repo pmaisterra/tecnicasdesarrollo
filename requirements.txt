@@ -4,5 +4,5 @@ streamlit==1.12.1
 numpy==1.19.5
 keras==2.4.3
 tensorflow==2.5.0
-typing-extensions=3.10.0.0
+typing-extensions==3.10.0.0
 
